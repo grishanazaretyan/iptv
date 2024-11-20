@@ -1,2348 +1,1174 @@
-#EXTM3U
-#EXTINF:0,7 TV
+#EXTM3U 
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
-#EXTINF:0,43 канал (Туапсе) (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:0,360° (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:0,360° (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://video1.in-news.ru/360/index.m3u8
-#EXTINF:0,DanceHits80
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://89.111.136.7:8080/index.m3u8
-#EXTINF:0,DanceHits80
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0,Kino 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0,Kulinar TV Show
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
-#EXTINF:0,MOSOBR.TV (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,MOSOBR.TV (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,Pro100TV
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0,Relax
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,RU TV
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:0,Shopping Live (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:0,Sochi 24 HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:0,Sochi Live HD (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:0,SONGTV Russia (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:0,TRK 555 (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://trk555.tv:8888/live
-#EXTINF:0,TV BRICS Russian (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,TVOE TV HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0,Univer TV (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:0,Univer TV (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:0,viju TV1000 action (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:0,viju+ Comedy (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://77.235.1.17/vip_comedy/index.m3u8
-#EXTINF:0,viju+ Premiere (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://77.235.1.17/vip_premier/index.m3u8
-#EXTINF:0,like Gecko) Chrome/120.0.4044.138 Safari/537.36"
+#EXTINF:0,VIVA Russia (1080p) [Not 24/7]
 #EXTGRP:Русский
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0,Аист ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:0,Арис 24 (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:0,Астрахань 24 (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:0,Астрахань.Ru Sport (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,Астрахань.Ru TV (480p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:0,Белгород 24 (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:0,Большая Азия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:0,БСТ 24 (Братск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:0,Ветта 24 (Пермь) (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:0,Волга (HD)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:0,Волгоград 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:0,Городской телеканал (Ярославль) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://www.gtk.tv/hls/gtyar.m3u8
-#EXTINF:0,Губерния (Самара) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:0,Дождь (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Евразия (Орск) (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:0,Енисей (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:0,Жар Птица (404p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:0,Звезда (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0,Звезда Плюс
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0,Известия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:0,К16 (Саров) (406p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:0,Каббала ТВ (360p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:0,Кинопремьера HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://45.159.74.13/Kinopremera/index.m3u8
-#EXTINF:0,Кнопка ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://api.alpaca.t62a.com/hls/9116/index.m3u8
-#EXTINF:0,Красная линия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:0,Красная линия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
-#EXTINF:0,КФУ ТВ (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (480p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:0,Легендарный 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0,Матур ТВ (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:0,Миллет (540p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:0,Мир (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Мир 24 (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Мир +2 (540p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:0,Мир +4 (540p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0,Мир +7 (540p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:0,Мир Белагорья (720p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0,Мир Белогорья (720p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0,МТВ (Волгоград) (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:0,Муз союз (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0,Мультимания (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мультимания ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:0,Надежда (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0,Надежда (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0,Нано ТВ HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:0,НВК Саха (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:0,Нижний Новгород 24 (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:0,Ника ТВ (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0,НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0,НТС (Севастополь) (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:0,ОСН
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:0,Остросюжетное HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Премиальное HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:0,Прима (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:0,Радио Говорит Москва (404p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:0,Радио Говорит Москва (Веб-камера) (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:0,Радио Хит (Орск) (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://lova.me/hls/hithd.m3u8
-#EXTINF:0,Радио Хит (Орск) (300p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://lova.me/hls/hit.m3u8
-#EXTINF:0,Радио Шансон (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:0,Ратник (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,РБК (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:0,РБК (560p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:0,РБК (СПБ) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:0,РБК-ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://online-video.rbc.ru/online2/rbctv.m3u8
-#EXTINF:0,РЖД ТВ (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:0,РЖД ТВ (360p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:0,Россия 24 (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:0,С1 (Сургут) (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sitv.ru/hls/stv.m3u8
-#EXTINF:0,Самара ГИС (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:0,Своё HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:0,Солнце
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:0,Союз (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0,Страна FM (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,СТРК (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:0,Сургут 24 (720p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://video1.in-news.ru/c24/index.m3u8
-#EXTINF:0,ТВК 24 (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:0,Твое ТВ Юмор
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Телеканал 86 (Сургут) (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:0,Телплюс ТВ (Астрахань) (360p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:0,Тивиком (Улан-Удэ) (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:0,ТК Алмазный край (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:0,ТКР (Рязань) (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:0,Толк HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0,Точка ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:0,Три Ангела (720p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:0,Хузур ТВ (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:0,Центр (Красноярск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://stream.tck.tv/hd.m3u8
-#EXTINF:0,Шансон ТВ (576p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:0,Шансон ТВ (512p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:0,Щёлковское ТВ (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:0,Эхо TV (Рязань) (576p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Ювелирочка ТВ (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:0,9 Волна (Черкесск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
-#EXTINF:0,12 канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:0,12 канал (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:0,49 канал (Новосибирск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
-#EXTINF:0,Arirang
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:0,E!
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:0,Leomax 24 (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:0,RTД
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:0,Russia Today
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
-#EXTINF:0,TV BRICS Chinese (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:0,TV BRICS English (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:0,TV BRICS Portuguese (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:0,TV BRICS Russian
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,TVM Channel
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
-#EXTINF:0,Архыз 24 (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:0,Астрахань 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
-#EXTINF:0,БелРос (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:0,БСТ (Башкирское спутниковое телевидение) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:0,Дагестан (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:0,Дон 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0,Звезда Плюс
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0,Ингушетия ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:0,Калейдоскоп ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
-#EXTINF:0,КРИК-ТВ (Екатеринбург)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:0,Курай (Уфа) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0,Магнат ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:0,Осетия Ирыстон
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-#EXTINF:0,Первый Ярославский
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:0,Продвижение
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
-#EXTINF:0,Просвещение (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-#EXTINF:0,Радость моя
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:0,Салям (Уфа) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0,Санкт-Петербург
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
-#EXTINF:0,Своё ТВ (Ставрополь)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:0,Север (Нарьян-Мар) (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0,Север (Нарьян-Мар) (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0,СПАС (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:0,СТАРТ Триумф
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:0,Страна ФМ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:0,Тамыр (Уфа) (576p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:0,ТК Краснодар
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
-#EXTINF:0,ТНВ-Планета (Казань)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:0,ТНТ MUSIC
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:0,Тюменское время
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
-#EXTINF:0,Шансон ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:0,Шаян ТВ (Татарстан)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
-#EXTINF:0,Ю
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:0,A21 VITAL AUTOSPORT [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Детское кино International
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Кино 1 International
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,КИНО-1 INTERNATIONAL
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Музыка 1 International
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:0,Музыка 2 International
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:0,Музыка Кино International
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0,Неизвестная Россия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:0,НТВ +1
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:0,НТВ +2
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:0,НТВ +4
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:0,НТВ +7
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:0,НТВ HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:0,НТВ Право
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:0,НТВ Сериал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:0,НТВ Стиль
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,НТВ Хит
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,RT Arabic (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:0,RT Arabic (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:0,RT Documentary English (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:0,RT Documentary English (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,RT Documentary Russian (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:0,RT en Español (1080p)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:0,RT en Español (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:0,RT en Español (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0,RT France (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:0,RT France (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
-#EXTINF:0,5 канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:0,Домашний
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-#EXTINF:0,НТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:0,Общественное Телевидение России
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:0,Пятница
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:0,РЕН ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:0,Россия-К
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-#EXTINF:0,СТС
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:0,ТВ3
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:0,ТВ Центр
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:0,ТНТ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:0,Че!
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:0,Ю
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:0,360°
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:0,360° Новости
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:0,Башкортостан 24 (Уфа)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-#EXTINF:0,Большая Азия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:0,Вести ФМ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/52035
-#EXTINF:0,Вместе РФ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:0,Дума ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:0,Запад 24 (Калининград)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-#EXTINF:0,Кавказ 24 (Ставрополь)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:0,Москва 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:0,Нижний Новгород 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:0,Россия 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/21
-#EXTINF:0,Россия-К
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:0,РТР Планета Азия
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/63254
-#EXTINF:0,РТР Планета Евро
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/4941
-#EXTINF:0,РТР Планета Евро
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/63251
-#EXTINF:0,РТР Планета СНГ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:0,РТР Планета США
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/63250
-#EXTINF:0,Самара 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:0,Санкт Петербург
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/62037
-#EXTINF:0,Сибирь 24 (Красноярск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-#EXTINF:0,Сибирь 24 (Новосибирск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:0,Смотрим Частный Детектив
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0,Соловьев LIVE
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:0,СургутИнформТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:0,Телеканал Краснодар
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:0,ТНТ Music
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
-#EXTINF:0,Толк
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0,Урал 24 (Челябинск)
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-#EXTINF:0,Югра
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:0,RT Documentary Russian
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/554.m3u8
-#EXTINF:0,RT Documentary Russian
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:0,Дом Кино
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/44.m3u8
-#EXTINF:0,Дом Кино
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/748.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/232.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:0,МузТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/618.m3u8
-#EXTINF:0,МузТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:0,НТВ Мир
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/213.m3u8
-#EXTINF:0,НТВ Мир
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/210.m3u8
-#EXTINF:0,Первый канал
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:0,Победа
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/43.m3u8
-#EXTINF:0,Победа
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/30.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:0,Россия РТР
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/211.m3u8
-#EXTINF:0,Россия РТР
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:0,СТС
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/296.m3u8
-#EXTINF:0,СТС
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:0,ТНТ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.skynetconnect.online/live/38.m3u8
-#EXTINF:0,ТНТ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:0,Amedia 1
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:0,Amedia 2
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/A2/index.m3u8
-#EXTINF:0,Ani
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:0,Bridge
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:0,Nickelodeon
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:0,Время
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Vremya/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0,ЖИВИ!
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:0,Зоо ТВ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:0,История
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:0,Кинопоказ
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:0,Музыка Первого
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
-#EXTINF:0,Поехали!
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Poehali/index.m3u8
-#EXTINF:0,Русский Бестселлер
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
-#EXTINF:0,СТС Love
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/STS_Love/index.m3u8
-#EXTINF:0,Телекафе
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 http://31.148.48.15/Telekafe/index.m3u8
-#EXTINF:0,Домашний (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,Карусель (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:0,Культура (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Лен ТВ 24 (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:0,НТВ (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0,Прима (1080p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:0,Пятница! (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0,Пятый Канал (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0,РЕН ТВ (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:0,СТС (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0,СТС Love (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:0,Суббота! (450p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:0,ТВ-3 (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0,ТНТ (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0,Че! (540p) [Geo-blocked]
+#EXTINF:0,group-title="Русский"
 #EXTGRP:Русский
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:0,ARTN TV (1080p) [Not 24/7]
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:0,First Channel News (1080p)
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
-#EXTINF:0,First Channel News (1080p)
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:0,SONGTV Armenia (720p)
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:0,Առաջին ալիք (1080p)
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,5 ԹԻՎԻ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Al Jazeera (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Al Jazeera Arabic (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Amedia Premium (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,BBC World News (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,BRIDGE (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s34/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Deutsche Welle (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Fast&Fun Box (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Mezzo (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Rai 1 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Tiji (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Viju Sport (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s38/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,АTV ԱԹԻՎԻ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Арсенал (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s68/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Детский мир (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s58/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Домашний (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s88/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Дорама (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Загородный (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,История (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s40/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Космический (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s44/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Культура (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s16/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Мир (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s39/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Наука (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,НТВ Мир (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,НТВ Хит (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Первый канал (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s14/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Приключения (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s99/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Пятница! International (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,РБК (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s36/index.m3u8
-#EXTINF:0,like Gec Mobile/15E148"
+#EXTINF:0,Россия 24 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s21/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Россия РТР (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Рыжий (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,СТС (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s52/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ТВЦ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ТЕЛЕКАФЕ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s56/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ТНТ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s19/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ТНТ4 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s100/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Центральное телевидение (ЦТВ) (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Шансон ТВ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s43/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԱՐՄԵՆԻԱ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԴԱՐ21 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԵՐԿԻՐ ՄԵԴԻԱ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԹԱՎԱ ԹԻՎԻ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԼԱՎՖՀԱՔ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԽԱՂԱԼԻՔ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԿԵՆՏՐՈՆ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ԿԻՆՈՄԱՆ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,Հ1 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s1/index.m3u8
-#EXTINF:0,like Geck Mobile/15E148"
+#EXTINF:0,Հ2 (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՀԱՅ ԹԻՎԻ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՆՈՐ ՀԱՅԱՍՏԱՆ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՇՈՂԱԿԱԹ (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՋԱՆ ԹԻՎԻ (U3) (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՍԻՆԵՄԱՆ (U6) (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
+#EXTINF:0,ՏՈՒՆՏՈՒՆԻԿ (U5) (480p) [Not 24/7]
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:0,Amedia Premium
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:0,ATV Kinoman HD
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:0,FightBox
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,Fox
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:0,Hollywood
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
-#EXTINF:0,National Geographic Wild
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:0,Nicktoons
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:0,Бокс ТВ
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:0,Детский мир
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:0,Дом Кино
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:0,Индия
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:0,Карусель Int
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:0,Кинопремьера HD
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:0,Кухня ТВ HD
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:0,Муз ТВ
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:0,Мульт
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:0,Наука 2.0
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:0,НТВ Мир
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:0,Первый космический
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:0,Перец
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:0,Пятница International
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:0,СТС Kids
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Telekafe/mono.m3u8
-
-#EXTINF:0,7 TV
-#EXTGRP:Русский
-http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
-#EXTINF:0,43 канал (Туапсе) (720p)
-#EXTGRP:Русский
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:0,360° (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:0,360° (720p)
-#EXTGRP:Русский
-https://video1.in-news.ru/360/index.m3u8
-#EXTINF:0,DanceHits80
-#EXTGRP:Русский
-http://89.111.136.7:8080/index.m3u8
-#EXTINF:0,DanceHits80
-#EXTGRP:Русский
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0,Kino 24
-#EXTGRP:Русский
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0,Kulinar TV Show
-#EXTGRP:Русский
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
-#EXTINF:0,MOSOBR.TV (720p)
-#EXTGRP:Русский
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,MOSOBR.TV (720p) [Not 24/7]
-#EXTGRP:Русский
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,Pro100TV
-#EXTGRP:Русский
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0,Relax
-#EXTGRP:Русский
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,RU TV
-#EXTGRP:Русский
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:0,Shopping Live (576p) [Not 24/7]
-#EXTGRP:Русский
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:0,Sochi 24 HD
-#EXTGRP:Русский
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:0,Sochi Live HD (720p) [Not 24/7]
-#EXTGRP:Русский
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:0,SONGTV Russia (720p)
-#EXTGRP:Русский
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:0,TRK 555 (720p)
-#EXTGRP:Русский
-http://trk555.tv:8888/live
-#EXTINF:0,TV BRICS Russian (1080p)
-#EXTGRP:Русский
-http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,TVOE TV HD
-#EXTGRP:Русский
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0,Univer TV (1080p)
-#EXTGRP:Русский
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:0,Univer TV (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:0,viju TV1000 action (1080p)
-#EXTGRP:Русский
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:0,viju+ Comedy (1080p)
-#EXTGRP:Русский
-http://77.235.1.17/vip_comedy/index.m3u8
-#EXTINF:0,viju+ Premiere (1080p)
-#EXTGRP:Русский
-http://77.235.1.17/vip_premier/index.m3u8
-#EXTINF:0,like Gecko) Chrome/120.0.4044.138 Safari/537.36"
-#EXTGRP:Русский
-https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0,Аист ТВ
-#EXTGRP:Русский
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:0,Арис 24 (720p) [Not 24/7]
-#EXTGRP:Русский
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:0,Астрахань 24 (720p)
-#EXTGRP:Русский
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:0,Астрахань.Ru Sport (720p)
-#EXTGRP:Русский
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0,Астрахань.Ru TV (480p)
-#EXTGRP:Русский
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:0,Белгород 24 (1080p)
-#EXTGRP:Русский
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:0,Большая Азия
-#EXTGRP:Русский
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:0,БСТ 24 (Братск)
-#EXTGRP:Русский
-http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:0,Ветта 24 (Пермь) (576p) [Not 24/7]
-#EXTGRP:Русский
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:0,Волга (HD)
-#EXTGRP:Русский
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:0,Волгоград 24
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:0,Городской телеканал (Ярославль) (576p)
-#EXTGRP:Русский
-https://www.gtk.tv/hls/gtyar.m3u8
-#EXTINF:0,Губерния (Самара) (576p)
-#EXTGRP:Русский
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:0,Дождь (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Евразия (Орск) (720p)
-#EXTGRP:Русский
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:0,Енисей (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:0,Жар Птица (404p) [Geo-blocked]
-#EXTGRP:Русский
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:0,Звезда (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0,Звезда Плюс
-#EXTGRP:Русский
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0,Известия
-#EXTGRP:Русский
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:0,К16 (Саров) (406p) [Not 24/7]
-#EXTGRP:Русский
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:0,Каббала ТВ (360p) [Not 24/7]
-#EXTGRP:Русский
-https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:Русский
-http://45.159.74.13/Kinopremera/index.m3u8
-#EXTINF:0,Кнопка ТВ
-#EXTGRP:Русский
-https://api.alpaca.t62a.com/hls/9116/index.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP:Русский
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP:Русский
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
-#EXTINF:0,КФУ ТВ (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (1080p)
-#EXTGRP:Русский
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (720p)
-#EXTGRP:Русский
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:0,ЛДПР ТВ (480p)
-#EXTGRP:Русский
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:0,Легендарный 24
-#EXTGRP:Русский
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0,Матур ТВ (1080p)
-#EXTGRP:Русский
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:0,Миллет (540p) [Not 24/7]
-#EXTGRP:Русский
-https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:0,Мир (1080p) [Not 24/7]
-#EXTGRP:Русский
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Мир 24 (1080p)
-#EXTGRP:Русский
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Мир +2 (540p) [Not 24/7]
-#EXTGRP:Русский
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:0,Мир +4 (540p) [Not 24/7]
-#EXTGRP:Русский
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0,Мир +7 (540p)
-#EXTGRP:Русский
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:0,Мир Белагорья (720p) [Geo-blocked]
-#EXTGRP:Русский
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0,Мир Белогорья (720p) [Geo-blocked]
-#EXTGRP:Русский
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:0,МТВ (Волгоград) (720p) [Not 24/7]
-#EXTGRP:Русский
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:0,Муз союз (576p)
-#EXTGRP:Русский
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0,Мультимания (576p)
-#EXTGRP:Русский
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мультимания ТВ
-#EXTGRP:Русский
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:0,Надежда (720p)
-#EXTGRP:Русский
-https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0,Надежда (720p)
-#EXTGRP:Русский
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0,Нано ТВ HD
-#EXTGRP:Русский
-http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:0,НВК Саха (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:0,Нижний Новгород 24 (720p) [Not 24/7]
-#EXTGRP:Русский
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:0,Ника ТВ (576p) [Not 24/7]
-#EXTGRP:Русский
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0,НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
-#EXTGRP:Русский
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0,НТС (Севастополь) (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:0,ОСН
-#EXTGRP:Русский
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:Русский
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Русский
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Премиальное HD
-#EXTGRP:Русский
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:0,Прима (1080p)
-#EXTGRP:Русский
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:0,Радио Говорит Москва (404p) [Not 24/7]
-#EXTGRP:Русский
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:0,Радио Говорит Москва (Веб-камера) (720p)
-#EXTGRP:Русский
-https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:0,Радио Хит (Орск) (720p)
-#EXTGRP:Русский
-http://lova.me/hls/hithd.m3u8
-#EXTINF:0,Радио Хит (Орск) (300p)
-#EXTGRP:Русский
-http://lova.me/hls/hit.m3u8
-#EXTINF:0,Радио Шансон (720p) [Not 24/7]
-#EXTGRP:Русский
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:0,Ратник (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,РБК (576p)
-#EXTGRP:Русский
-https://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:0,РБК (560p)
-#EXTGRP:Русский
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:0,РБК (СПБ) (576p)
-#EXTGRP:Русский
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:0,РБК-ТВ
-#EXTGRP:Русский
-http://online-video.rbc.ru/online2/rbctv.m3u8
-#EXTINF:0,РЖД ТВ (1080p) [Geo-blocked]
-#EXTGRP:Русский
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:0,РЖД ТВ (360p) [Geo-blocked]
-#EXTGRP:Русский
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:0,Россия 24 (576p) [Not 24/7]
-#EXTGRP:Русский
-https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:0,С1 (Сургут) (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:0,Самара ГИС (1080p) [Not 24/7]
-#EXTGRP:Русский
-http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:0,Своё HD
-#EXTGRP:Русский
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:0,Солнце
-#EXTGRP:Русский
-http://tv.mediacdn.ru/live/disney/playlist.m3u8
-#EXTINF:0,Союз (576p)
-#EXTGRP:Русский
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0,Страна FM (720p) [Not 24/7]
-#EXTGRP:Русский
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,СТРК (720p) [Not 24/7]
-#EXTGRP:Русский
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:0,Сургут 24 (720p) [Not 24/7]
-#EXTGRP:Русский
-https://video1.in-news.ru/c24/index.m3u8
-#EXTINF:0,ТВК 24 (576p)
-#EXTGRP:Русский
-https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:0,Твое ТВ Юмор
-#EXTGRP:Русский
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Телеканал 86 (Сургут) (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:0,Телплюс ТВ (Астрахань) (360p) [Not 24/7]
-#EXTGRP:Русский
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:0,Тивиком (Улан-Удэ) (1080p) [Not 24/7]
-#EXTGRP:Русский
-http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:0,ТК Алмазный край (576p)
-#EXTGRP:Русский
-https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:0,ТКР (Рязань) (1080p) [Not 24/7]
-#EXTGRP:Русский
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:0,Толк HD
-#EXTGRP:Русский
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0,Точка ТВ
-#EXTGRP:Русский
-https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:0,Три Ангела (720p)
-#EXTGRP:Русский
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:0,Хузур ТВ (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:0,Центр (Красноярск)
-#EXTGRP:Русский
-https://stream.tck.tv/hd.m3u8
-#EXTINF:0,Шансон ТВ (576p) [Geo-blocked]
-#EXTGRP:Русский
-https://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:0,Шансон ТВ (512p) [Geo-blocked]
-#EXTGRP:Русский
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:0,Щёлковское ТВ (576p) [Not 24/7]
-#EXTGRP:Русский
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:0,Эхо TV (Рязань) (576p) [Not 24/7]
-#EXTGRP:Русский
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Ювелирочка ТВ (576p)
-#EXTGRP:Русский
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:0,9 Волна (Черкесск)
-#EXTGRP:Русский
-http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
-#EXTINF:0,12 канал
-#EXTGRP:Русский
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:0,12 канал (1080p)
-#EXTGRP:Русский
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:0,49 канал (Новосибирск)
-#EXTGRP:Русский
-https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:0,E!
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:0,Leomax 24 (1080p)
-#EXTGRP:Русский
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:0,RTД
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:0,Russia Today
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
-#EXTINF:0,TV BRICS Chinese (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:0,TV BRICS English (1080p)
-#EXTGRP:Русский
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:0,TV BRICS Portuguese (1080p)
-#EXTGRP:Русский
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:0,TV BRICS Russian
-#EXTGRP:Русский
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,TVM Channel
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
-#EXTINF:0,Архыз 24 (1080p)
-#EXTGRP:Русский
-https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:0,Астрахань 24
-#EXTGRP:Русский
-https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
-#EXTINF:0,БелРос (576p)
-#EXTGRP:Русский
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:0,БСТ (Башкирское спутниковое телевидение) (576p)
-#EXTGRP:Русский
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:0,Дагестан (1080p)
-#EXTGRP:Русский
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:0,Дон 24
-#EXTGRP:Русский
-https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Русский
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0,Звезда Плюс
-#EXTGRP:Русский
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0,Ингушетия ТВ
-#EXTGRP:Русский
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:0,Калейдоскоп ТВ
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
-#EXTINF:0,КРИК-ТВ (Екатеринбург)
-#EXTGRP:Русский
-http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:0,Курай (Уфа) (576p)
-#EXTGRP:Русский
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0,Магнат ТВ
-#EXTGRP:Русский
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:0,Осетия Ирыстон
-#EXTGRP:Русский
-https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-#EXTINF:0,Первый Ярославский
-#EXTGRP:Русский
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:0,Продвижение
-#EXTGRP:Русский
-https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
-#EXTINF:0,Просвещение (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-#EXTINF:0,Радость моя
-#EXTGRP:Русский
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:0,Салям (Уфа) (576p)
-#EXTGRP:Русский
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0,Санкт-Петербург
-#EXTGRP:Русский
-https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
-#EXTINF:0,Своё ТВ (Ставрополь)
-#EXTGRP:Русский
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:0,Север (Нарьян-Мар) (1080p)
-#EXTGRP:Русский
-https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0,Север (Нарьян-Мар) (1080p)
-#EXTGRP:Русский
-https://live.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0,СПАС (576p)
-#EXTGRP:Русский
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:0,СТАРТ Триумф
-#EXTGRP:Русский
-https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:0,Страна ФМ
-#EXTGRP:Русский
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:0,Тамыр (Уфа) (576p)
-#EXTGRP:Русский
-https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:0,ТК Краснодар
-#EXTGRP:Русский
-https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
-#EXTINF:0,ТНВ-Планета (Казань)
-#EXTGRP:Русский
-https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:0,ТНТ MUSIC
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:0,Тюменское время
-#EXTGRP:Русский
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
-#EXTINF:0,Шансон ТВ
-#EXTGRP:Русский
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:0,Шаян ТВ (Татарстан)
-#EXTGRP:Русский
-https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
-#EXTINF:0,Ю
-#EXTGRP:Русский
-https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:0,A21 VITAL AUTOSPORT [Not 24/7]
-#EXTGRP:Русский
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Детское кино International
-#EXTGRP:Русский
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP:Русский
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,КИНО-1 INTERNATIONAL
-#EXTGRP:Русский
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,Музыка 1 International
-#EXTGRP:Русский
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:0,Музыка 2 International
-#EXTGRP:Русский
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:0,Музыка Кино International
-#EXTGRP:Русский
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0,Неизвестная Россия
-#EXTGRP:Русский
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:0,НТВ +1
-#EXTGRP:Русский
-https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:0,НТВ +2
-#EXTGRP:Русский
-https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:0,НТВ +4
-#EXTGRP:Русский
-https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:0,НТВ +7
-#EXTGRP:Русский
-https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Русский
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:Русский
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:Русский
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:0,НТВ Стиль
-#EXTGRP:Русский
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP:Русский
-https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,RT Arabic (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:0,RT Arabic (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:0,RT Documentary English (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:0,RT Documentary English (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,RT Documentary Russian (1080p)
-#EXTGRP:Русский
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:0,RT en Español (1080p)
-#EXTGRP:Русский
-https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:0,RT en Español (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:0,RT en Español (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0,RT France (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:0,RT France (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
-#EXTGRP:Русский
-https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
-#EXTINF:0,5 канал
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:0,Общественное Телевидение России
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:0,Россия-К
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:0,ТВ Центр
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:0,Че!
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:0,Ю
-#EXTGRP:Русский
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:0,360°
-#EXTGRP:Русский
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:0,360° Новости
-#EXTGRP:Русский
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:0,Башкортостан 24 (Уфа)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-#EXTINF:0,Большая Азия
-#EXTGRP:Русский
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:0,Вести ФМ
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/52035
-#EXTINF:0,Вместе РФ
-#EXTGRP:Русский
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:0,Дума ТВ
-#EXTGRP:Русский
-https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:0,Запад 24 (Калининград)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-#EXTINF:0,Кавказ 24 (Ставрополь)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:0,Москва 24
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:0,Нижний Новгород 24
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:0,Россия 24
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/21
-#EXTINF:0,Россия-К
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:0,РТР Планета Азия
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/63254
-#EXTINF:0,РТР Планета Евро
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/4941
-#EXTINF:0,РТР Планета Евро
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/63251
-#EXTINF:0,РТР Планета СНГ
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:0,РТР Планета США
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/63250
-#EXTINF:0,Самара 24
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:0,Санкт Петербург
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/62037
-#EXTINF:0,Сибирь 24 (Красноярск)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-#EXTINF:0,Сибирь 24 (Новосибирск)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:0,Смотрим Частный Детектив
-#EXTGRP:Русский
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0,Соловьев LIVE
-#EXTGRP:Русский
-https://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:0,СургутИнформТВ
-#EXTGRP:Русский
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:0,Телеканал Краснодар
-#EXTGRP:Русский
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:0,ТНТ Music
-#EXTGRP:Русский
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
-#EXTINF:0,Толк
-#EXTGRP:Русский
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0,Урал 24 (Челябинск)
-#EXTGRP:Русский
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
-#EXTINF:0,Югра
-#EXTGRP:Русский
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:0,RT Documentary Russian
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/554.m3u8
-#EXTINF:0,RT Documentary Russian
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:0,Дом Кино
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/44.m3u8
-#EXTINF:0,Дом Кино
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/748.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/232.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:0,МузТВ
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/618.m3u8
-#EXTINF:0,МузТВ
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:0,НТВ Мир
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/213.m3u8
-#EXTINF:0,НТВ Мир
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/210.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:0,Победа
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/43.m3u8
-#EXTINF:0,Победа
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/30.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/211.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/296.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Русский
-https://streaming.skynetconnect.online/live/38.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Русский
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:0,Amedia 1
-#EXTGRP:Русский
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:0,Amedia 2
-#EXTGRP:Русский
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:0,Ani
-#EXTGRP:Русский
-http://31.148.48.15/Ani/index.m3u8
-#EXTINF:0,Bridge
-#EXTGRP:Русский
-http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:Русский
-http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:Русский
-http://31.148.48.15/Vremya/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:Русский
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0,ЖИВИ!
-#EXTGRP:Русский
-http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:0,Зоо ТВ
-#EXTGRP:Русский
-http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:0,История
-#EXTGRP:Русский
-http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:0,Кинопоказ
-#EXTGRP:Русский
-http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:0,Музыка Первого
-#EXTGRP:Русский
-http://31.148.48.15/Muzika_Pervogo/index.m3u8
-#EXTINF:0,Поехали!
-#EXTGRP:Русский
-http://31.148.48.15/Poehali/index.m3u8
-#EXTINF:0,Русский Бестселлер
-#EXTGRP:Русский
-http://31.148.48.15/Russkiy_Bestseller/index.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP:Русский
-http://31.148.48.15/STS_Love/index.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:Русский
-http://31.148.48.15/Telekafe/index.m3u8
-#EXTINF:0,Домашний (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,Карусель (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:0,Культура (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Лен ТВ 24 (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:0,НТВ (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0,Прима (1080p) [Geo-blocked]
-#EXTGRP:Русский
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:0,Пятница! (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0,Пятый Канал (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0,РЕН ТВ (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:0,СТС (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0,СТС Love (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:0,Суббота! (450p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:0,ТВ-3 (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0,ТНТ (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0,Че! (540p) [Geo-blocked]
-#EXTGRP:Русский
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:0,ARTN TV (1080p) [Not 24/7]
-#EXTGRP:Հայկական
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:0,First Channel News (1080p)
-#EXTGRP:Հայկական
-https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
-#EXTINF:0,First Channel News (1080p)
-#EXTGRP:Հայկական
-https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:0,SONGTV Armenia (720p)
-#EXTGRP:Հայկական
-https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:0,Առաջին ալիք (1080p)
-#EXTGRP:Հայկական
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s34/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s38/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s68/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s58/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s88/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s40/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s44/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s16/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s39/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s14/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s99/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s36/index.m3u8
-#EXTINF:0,like Gec Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s21/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s52/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s56/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s19/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s100/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s43/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s1/index.m3u8
-#EXTINF:0,like Geck Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:0,like Gecko Mobile/15E148"
-#EXTGRP:Հայկական
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:0,Amedia Premium
-#EXTGRP:Հայկական
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:0,ATV Kinoman HD
-#EXTGRP:Հայկական
-http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:0,FightBox
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,Fox
-#EXTGRP:Հայկական
-https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:0,Hollywood
-#EXTGRP:Հայկական
-http://stream01.vnet.am/ParamountChannel/mono.m3u8
-#EXTINF:0,National Geographic Wild
-#EXTGRP:Հայկական
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:0,Nicktoons
-#EXTGRP:Հայկական
-https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:0,Бокс ТВ
-#EXTGRP:Հայկական
-http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP:Հայկական
-http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:0,Дом Кино
-#EXTGRP:Հայկական
-https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:0,Индия
-#EXTGRP:Հայկական
-https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:0,Карусель Int
-#EXTGRP:Հայկական
-http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:Հայկական
-http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:0,Кухня ТВ HD
-#EXTGRP:Հայկական
-http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:0,Муз ТВ
-#EXTGRP:Հայկական
-http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:0,Мульт
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:0,Наука 2.0
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Nauka/mono.m3u8
-#EXTINF:0,НТВ Мир
-#EXTGRP:Հայկական
-http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:0,Первый космический
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:0,Перец
-#EXTGRP:Հայկական
-http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:0,Пятница International
-#EXTGRP:Հայկական
-https://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:0,СТС Kids
-#EXTGRP:Հայկական
-http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:0,Телекафе
+#EXTINF:0,group-title="Հայկական"
 #EXTGRP:Հայկական
 http://stream01.vnet.am/Telekafe/mono.m3u8
