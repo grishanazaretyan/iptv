@@ -1,0 +1,873 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7tv.ru",7 TV group-title="rus"
+http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Channel43.ru",43 канал (Туапсе) (720p) group-title="rus"
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="360.ru",360° (1080p) [Not 24/7] group-title="rus"
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-id="360.ru",360° (720p) group-title="rus"
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 tvg-id="",DanceHits80 group-title="rus"
+http://89.111.136.7:8080/index.m3u8
+#EXTINF:-1 tvg-id="",DanceHits80 group-title="rus"
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru",Kino 24 group-title="rus"
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="",Kulinar TV Show group-title="rus"
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-id="MosObrTV.ru",MOSOBR.TV (720p) group-title="rus"
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-id="MosObrTV.ru",MOSOBR.TV (720p) [Not 24/7] group-title="rus"
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru",Pro100TV group-title="rus"
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="",Relax group-title="rus"
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru",RU TV group-title="rus"
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-id="ShoppingLive.ru",Shopping Live (576p) [Not 24/7] group-title="rus"
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sochi24.ru",Sochi 24 HD group-title="rus"
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SochiLiveHD.ru",Sochi Live HD (720p) [Not 24/7] group-title="rus"
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru",SONGTV Russia (720p) group-title="rus"
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+#EXTINF:-1 tvg-id="",TRK 555 (720p) group-title="rus"
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru",TV BRICS Russian (1080p) group-title="rus"
+http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="",TVOE TV HD group-title="rus"
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru",Univer TV (1080p) group-title="rus"
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru",Univer TV (1080p) [Not 24/7] group-title="rus"
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru",viju TV1000 action (1080p) group-title="rus"
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru",viju+ Comedy (1080p) group-title="rus"
+http://77.235.1.17/vip_comedy/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru",viju+ Premiere (1080p) group-title="rus"
+http://77.235.1.17/vip_premier/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4044.138 Safari/537.36",VIVA Russia (1080p) [Not 24/7] group-title="rus"
+#EXTVLCOPT:http-referrer=https://goodgame.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4044.138 Safari/537.36
+https://hls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 tvg-id="AISTTV.ru",Аист ТВ group-title="rus"
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru",Арис 24 (720p) [Not 24/7] group-title="rus"
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru",Астрахань 24 (720p) group-title="rus"
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru",Астрахань.Ru Sport (720p) group-title="rus"
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru",Астрахань.Ru TV (480p) group-title="rus"
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-id="Belgorod24.ru",Белгород 24 (1080p) group-title="rus"
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="BigAsia.ru",Большая Азия group-title="rus"
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BST.ru",БСТ 24 (Братск) group-title="rus"
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru",Ветта 24 (Пермь) (576p) [Not 24/7] group-title="rus"
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Volga.ru",Волга (HD) group-title="rus"
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru",Волгоград 24 group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Gorodskoytelekanal.ru",Городской телеканал (Ярославль) (576p) group-title="rus"
+https://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="GuberniaSamara.ru",Губерния (Самара) (576p) group-title="rus"
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru",Дождь (1080p) [Geo-blocked] group-title="rus"
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurasia.ru",Евразия (Орск) (720p) group-title="rus"
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru",Енисей (1080p) [Not 24/7] group-title="rus"
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZharPtitsa.ru",Жар Птица (404p) [Geo-blocked] group-title="rus"
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru",Звезда (1080p) [Not 24/7] group-title="rus"
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru",Звезда Плюс group-title="rus"
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru",Известия group-title="rus"
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel16.ru",К16 (Саров) (406p) [Not 24/7] group-title="rus"
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-id="KabbalaTV.ru",Каббала ТВ (360p) [Not 24/7] group-title="rus"
+https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru",Кинопремьера HD group-title="rus"
+http://45.159.74.13/Kinopremera/index.m3u8
+#EXTINF:-1 tvg-id="",Кнопка ТВ group-title="rus"
+https://api.alpaca.t62a.com/hls/9116/index.m3u8
+#EXTINF:-1 tvg-id="RedLine.ru",Красная линия group-title="rus"
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="RedLine.ru",Красная линия group-title="rus"
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru",КФУ ТВ (1080p) [Not 24/7] group-title="rus"
+https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (1080p) group-title="rus"
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (720p) group-title="rus"
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (480p) group-title="rus"
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Legendarnyy24.ru",Легендарный 24 group-title="rus"
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-id="MaturTV.ru",Матур ТВ (1080p) group-title="rus"
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="Millet.ru",Миллет (540p) [Not 24/7] group-title="rus"
+https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru",Мир (1080p) [Not 24/7] group-title="rus"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru",Мир 24 (1080p) group-title="rus"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirPlus2.ru",Мир +2 (540p) [Not 24/7] group-title="rus"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirPlus4.ru",Мир +4 (540p) [Not 24/7] group-title="rus"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirPlus7.ru",Мир +7 (540p) group-title="rus"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru",Мир Белагорья (720p) [Geo-blocked] group-title="rus"
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru",Мир Белогорья (720p) [Geo-blocked] group-title="rus"
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MTV.ru",МТВ (Волгоград) (720p) [Not 24/7] group-title="rus"
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzSoyuz.ru",Муз союз (576p) group-title="rus"
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="Multimania.ru",Мультимания (576p) group-title="rus"
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Multimania.ru",Мультимания ТВ group-title="rus"
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru",Надежда (720p) group-title="rus"
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru",Надежда (720p) group-title="rus"
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NanoHD.ru",Нано ТВ HD group-title="rus"
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru",НВК Саха (1080p) [Not 24/7] group-title="rus"
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24 (720p) [Not 24/7] group-title="rus"
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 tvg-id="NikaTV.ru",Ника ТВ (576p) [Not 24/7] group-title="rus"
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTM.ru",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] group-title="rus"
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTS.ru",НТС (Севастополь) (1080p) [Not 24/7] group-title="rus"
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OSN.ru",ОСН group-title="rus"
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 tvg-id="OstrosyuzhetnoyeHD.ru",Остросюжетное HD group-title="rus"
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал group-title="rus"
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="PremialnoeHD.ru",Премиальное HD group-title="rus"
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.ru",Прима (1080p) group-title="rus"
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru",Радио Говорит Москва (404p) [Not 24/7] group-title="rus"
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru",Радио Говорит Москва (Веб-камера) (720p) group-title="rus"
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 tvg-id="RadioHit.ru",Радио Хит (Орск) (720p) group-title="rus"
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-id="RadioHit.ru",Радио Хит (Орск) (300p) group-title="rus"
+http://lova.me/hls/hit.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru",Радио Шансон (720p) [Not 24/7] group-title="rus"
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="Ratnik.ru",Ратник (1080p) [Geo-blocked] group-title="rus"
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК (576p) group-title="rus"
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК (560p) group-title="rus"
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК (СПБ) (576p) group-title="rus"
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК-ТВ group-title="rus"
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-id="RZDTV.ru",РЖД ТВ (1080p) [Geo-blocked] group-title="rus"
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RZDTV.ru",РЖД ТВ (360p) [Geo-blocked] group-title="rus"
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24 (576p) [Not 24/7] group-title="rus"
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 tvg-id="S1.ru",С1 (Сургут) (1080p) [Not 24/7] group-title="rus"
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 tvg-id="SamaraGIS.ru",Самара ГИС (1080p) [Not 24/7] group-title="rus"
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1 tvg-id="SvoyoTV.ru",Своё HD group-title="rus"
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru",Солнце group-title="rus"
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru",Союз (576p) group-title="rus"
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru",Страна FM (720p) [Not 24/7] group-title="rus"
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="STRK.ru",СТРК (720p) [Not 24/7] group-title="rus"
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Surgut24.ru",Сургут 24 (720p) [Not 24/7] group-title="rus"
+https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-id="TVK.ru",ТВК 24 (576p) group-title="rus"
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru",Твое ТВ Юмор group-title="rus"
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="86.ru",Телеканал 86 (Сургут) (1080p) [Not 24/7] group-title="rus"
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru",Телплюс ТВ (Астрахань) (360p) [Not 24/7] group-title="rus"
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="Tivikom.ru",Тивиком (Улан-Удэ) (1080p) [Not 24/7] group-title="rus"
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="Almaznyykray.ru",ТК Алмазный край (576p) group-title="rus"
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1 tvg-id="TKR.ru",ТКР (Рязань) (1080p) [Not 24/7] group-title="rus"
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TolkHD.ru",Толк HD group-title="rus"
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TochkaTV.ru",Точка ТВ group-title="rus"
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNRussia.ru",Три Ангела (720p) group-title="rus"
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru",Хузур ТВ (1080p) [Not 24/7] group-title="rus"
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="TsentrKrasnoyarsk.ru",Центр (Красноярск) group-title="rus"
+https://stream.tck.tv/hd.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru",Шансон ТВ (576p) [Geo-blocked] group-title="rus"
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru",Шансон ТВ (512p) [Geo-blocked] group-title="rus"
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru",Щёлковское ТВ (576p) [Not 24/7] group-title="rus"
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="EchoTV.ru",Эхо TV (Рязань) (576p) [Not 24/7] group-title="rus"
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru",Ювелирочка ТВ (576p) group-title="rus"
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="9Volna.ru",9 Волна (Черкесск) group-title="rus"
+http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel12.ru",12 канал group-title="rus"
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel12.ru",12 канал (1080p) group-title="rus"
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="",49 канал (Новосибирск) group-title="rus"
+https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang group-title="rus"
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="",E! group-title="rus"
+https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+#EXTINF:-1 tvg-id="Leomax24.ru",Leomax 24 (1080p) group-title="rus"
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RTД group-title="rus"
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru",Russia Today group-title="rus"
+https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn",TV BRICS Chinese (1080p) [Not 24/7] group-title="rus"
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSEnglish.in",TV BRICS English (1080p) group-title="rus"
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br",TV BRICS Portuguese (1080p) group-title="rus"
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru",TV BRICS Russian group-title="rus"
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMChannel.ru",TVM Channel group-title="rus"
+https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru",Архыз 24 (1080p) group-title="rus"
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru",Астрахань 24 group-title="rus"
+https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru",БелРос (576p) group-title="rus"
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="BST.ru",БСТ (Башкирское спутниковое телевидение) (576p) group-title="rus"
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="Dagestan.ru",Дагестан (1080p) group-title="rus"
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="Don24.ru",Дон 24 group-title="rus"
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru",Звезда group-title="rus"
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru",Звезда Плюс group-title="rus"
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="Ingushetia.ru",Ингушетия ТВ group-title="rus"
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-id="KaleidoscopeTV.ru",Калейдоскоп ТВ group-title="rus"
+https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="KrikTV.ru",КРИК-ТВ (Екатеринбург) group-title="rus"
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="KurajTV.ru",Курай (Уфа) (576p) group-title="rus"
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="Magnat.ru",Магнат ТВ group-title="rus"
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-id="OsetiyaIryston.ru",Осетия Ирыстон group-title="rus"
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1 tvg-id="",Первый Ярославский group-title="rus"
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="Prodvizhenie.ru",Продвижение group-title="rus"
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1 tvg-id="Prosveshchenie.ru",Просвещение (540p) [Geo-blocked] group-title="rus"
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru",Радость моя group-title="rus"
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-id="Salyam.ru",Салям (Уфа) (576p) group-title="rus"
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru",Санкт-Петербург group-title="rus"
+https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
+#EXTINF:-1 tvg-id="SvoyoTV.ru",Своё ТВ (Ставрополь) group-title="rus"
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sever.ru",Север (Нарьян-Мар) (1080p) group-title="rus"
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="Sever.ru",Север (Нарьян-Мар) (1080p) group-title="rus"
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="Spas.ru",СПАС (576p) group-title="rus"
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-id="StartTriumf.ru",СТАРТ Триумф group-title="rus"
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru",Страна ФМ group-title="rus"
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru",Тамыр (Уфа) (576p) group-title="rus"
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="",ТК Краснодар group-title="rus"
+https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
+#EXTINF:-1 tvg-id="TNVPlanet.ru",ТНВ-Планета (Казань) group-title="rus"
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru",ТНТ MUSIC group-title="rus"
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="TyumenskoeVremya.ru",Тюменское время group-title="rus"
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru",Шансон ТВ group-title="rus"
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShayanTV.ru",Шаян ТВ (Татарстан) group-title="rus"
+https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
+#EXTINF:-1 tvg-id="U.ru",Ю group-title="rus"
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="",A21 VITAL AUTOSPORT [Not 24/7] group-title="rus"
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="",Детское кино International group-title="rus"
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="",Кино 1 International group-title="rus"
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="",КИНО-1 INTERNATIONAL group-title="rus"
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="",Музыка 1 International group-title="rus"
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="",Музыка 2 International group-title="rus"
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="",Музыка Кино International group-title="rus"
+https://kino-1.catcast.tv/content/37739/index.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="UnknownRussia.ru",Неизвестная Россия group-title="rus"
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-id="",НТВ +1 group-title="rus"
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-id="",НТВ +2 group-title="rus"
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-id="",НТВ +4 group-title="rus"
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-id="",НТВ +7 group-title="rus"
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHD.ru",НТВ HD group-title="rus"
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru",НТВ Право group-title="rus"
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru",НТВ Сериал group-title="rus"
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru",НТВ Стиль group-title="rus"
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru",НТВ Хит group-title="rus"
+https://cdn.ntv.ru/th_style/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="RTArabic.ru",RT Arabic (1080p) [Geo-blocked] group-title="rus"
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru",RT Arabic (1080p) [Geo-blocked] group-title="rus"
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru",RT Documentary English (1080p) [Geo-blocked] group-title="rus"
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru",RT Documentary English (1080p) [Geo-blocked] group-title="rus"
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RT Documentary Russian (1080p) group-title="rus"
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru",RT en Español (1080p) group-title="rus"
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru",RT en Español (1080p) [Geo-blocked] group-title="rus"
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru",RT en Español (1080p) [Geo-blocked] group-title="rus"
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr",RT France (1080p) [Geo-blocked] group-title="rus"
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr",RT France (1080p) [Geo-blocked] group-title="rus"
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru",RT News (1080p) [Geo-blocked] group-title="rus"
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru",RT News (1080p) [Not 24/7] group-title="rus"
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru",RT News (1080p) [Not 24/7] group-title="rus"
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru",RT News (1080p) [Not 24/7] group-title="rus"
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="Channel5.ru",5 канал group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru",Домашний group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru",Звезда group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru",Карусель group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru",НТВ group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 tvg-id="OTR.ru",Общественное Телевидение России group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="Friday.ru",Пятница group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru",РЕН ТВ group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24 group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru",Россия-К group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+#EXTINF:-1 tvg-id="STS.ru",СТС group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.ru",ТВ3 group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru",ТВ Центр group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.ru",ТНТ group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 tvg-id="Che.ru",Че! group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 tvg-id="U.ru",Ю group-title="rus"
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="360.ru",360° group-title="rus"
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru",360° Новости group-title="rus"
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Bashkortostan24.ru",Башкортостан 24 (Уфа) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="BigAsia.ru",Большая Азия group-title="rus"
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="",Вести ФМ group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/52035
+#EXTINF:-1 tvg-id="VmesteRF.ru",Вместе РФ group-title="rus"
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru",Дума ТВ group-title="rus"
+https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-id="",Запад 24 (Калининград) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Kavkaz24.ru",Кавказ 24 (Ставрополь) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru",Москва 24 group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/1661
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru",Нижний Новгород 24 group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24 group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-id="RussiaK.ru",Россия-К group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru",РТР Планета Азия group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/63254
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru",РТР Планета Евро group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru",РТР Планета Евро group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru",РТР Планета СНГ group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1 tvg-id="RTRPlanetaUSA.us",РТР Планета США group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/63250
+#EXTINF:-1 tvg-id="",Самара 24 group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru",Санкт Петербург group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/62037
+#EXTINF:-1 tvg-id="",Сибирь 24 (Красноярск) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="",Сибирь 24 (Новосибирск) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="",Смотрим Частный Детектив group-title="rus"
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru",Соловьев LIVE group-title="rus"
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:-1 tvg-id="Surgut24.ru",СургутИнформТВ group-title="rus"
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 tvg-id="",Телеканал Краснодар group-title="rus"
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru",ТНТ Music group-title="rus"
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 tvg-id="TolkHD.ru",Толк group-title="rus"
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="",Урал 24 (Челябинск) group-title="rus"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="UgraTV.ru",Югра group-title="rus"
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RT Documentary Russian group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/554.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RT Documentary Russian group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru",Дом Кино group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/44.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru",Дом Кино group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru",Звезда group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/748.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru",Звезда group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru",Карусель group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/232.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru",Карусель group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru",МузТВ group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/618.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru",МузТВ group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/213.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/210.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru",Победа group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/43.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru",Победа group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24 group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/30.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24 group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="",Россия РТР group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/211.m3u8
+#EXTINF:-1 tvg-id="",Россия РТР group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 tvg-id="STS.ru",СТС group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/296.m3u8
+#EXTINF:-1 tvg-id="STS.ru",СТС group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="TNT.ru",ТНТ group-title="rus"
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/38.m3u8
+#EXTINF:-1 tvg-id="TNT.ru",ТНТ group-title="rus"
+https://streaming.televizor-24-tochka.ru/live/38.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="A1.ru",Amedia 1 group-title="rus"
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru",Amedia 2 group-title="rus"
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru",Ani group-title="rus"
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru",Bridge group-title="rus"
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru",Nickelodeon group-title="rus"
+http://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru",Время group-title="rus"
+http://31.148.48.15/Vremya/index.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru",Дом Кино Премиум HD group-title="rus"
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru",ЖИВИ! group-title="rus"
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru",Зоо ТВ group-title="rus"
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru",История group-title="rus"
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru",Кинопоказ group-title="rus"
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru",Музыка Первого group-title="rus"
+http://31.148.48.15/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru",Поехали! group-title="rus"
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru",Русский Бестселлер group-title="rus"
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru",СТС Love group-title="rus"
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru",Телекафе group-title="rus"
+http://31.148.48.15/Telekafe/index.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="Domashniy.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Домашний (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Карусель (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Культура (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="LenTV24.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Лен ТВ 24 (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",НТВ (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="Prima.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Прима (1080p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Пятница! (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Пятый Канал (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",РЕН ТВ (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="STS.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",СТС Love (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Суббота! (450p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="TV3.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",ТВ-3 (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",ТНТ (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="Che.ru" user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",Че! (540p) [Geo-blocked] group-title="rus"
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="ARTNTV.us",ARTN TV (1080p) [Not 24/7] group-title="arm"
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am",First Channel News (1080p) group-title="arm"
+https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am",First Channel News (1080p) group-title="arm"
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVArmenia.am",SONGTV Armenia (720p) group-title="arm"
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am",Առաջին ալիք (1080p) group-title="arm"
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="5TV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 tvg-id="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Al Jazeera (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Al Jazeera Arabic (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Amedia Premium (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World News (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BRIDGE (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="FastFunBox.nl" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Fast&Fun Box (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Rai 1 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Tiji (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1 tvg-id="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:-1 tvg-id="ATV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",АTV ԱԹԻՎԻ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Арсенал (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="Detskimir.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Детский мир (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Домашний (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Дорама (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Загородный (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",История (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Космический (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Культура (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Мир (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s39/index.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Наука (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",НТВ Мир (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",НТВ Хит (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Первый канал (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Приключения (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s99/index.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Пятница! International (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",РБК (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Россия 24 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Россия РТР (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Рыжий (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",СТС (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ТВЦ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ТЕЛЕКАФЕ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s56/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ТНТ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ТНТ4 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Центральное телевидение (ЦТВ) (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Шансон ТВ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:-1 tvg-id="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaPremium.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaHayKino.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 tvg-id="DAR21.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԴԱՐ21 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="YerkirMedia.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԵՐԿԻՐ ՄԵԴԻԱ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 tvg-id="ATVTavaTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԹԱՎԱ ԹԻՎԻ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-id="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԼԱՎՖՀԱՔ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԽԱՂԱԼԻՔ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="KentronTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԿԵՆՏՐՈՆ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="ATVKinoman.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԿԻՆՈՄԱՆ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Հ1 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 tvg-id="Armenia2.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Հ2 (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 tvg-id="ATVHayTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՀԱՅ ԹԻՎԻ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 tvg-id="NorHayastanTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՆՈՐ ՀԱՅԱՍՏԱՆ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 tvg-id="ShoghakatTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՇՈՂԱԿԱԹ (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaJanTV.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՋԱՆ ԹԻՎԻ (U3) (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaSinemaks.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՍԻՆԵՄԱՆ (U6) (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՏՈՒՆՏՈՒՆԻԿ (U5) (480p) [Not 24/7] group-title="arm"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="AmediaPremium.ru",Amedia Premium group-title="arm"
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-id="ATVKinoman.am",ATV Kinoman HD group-title="arm"
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl",FightBox group-title="arm"
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.ru",Fox group-title="arm"
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="Hollywood.ru",Hollywood group-title="arm"
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru",National Geographic Wild group-title="arm"
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru",Nicktoons group-title="arm"
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru",Бокс ТВ group-title="arm"
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-id="Detskimir.ru",Детский мир group-title="arm"
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru",Дом Кино group-title="arm"
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 tvg-id="India.ru",Индия group-title="arm"
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-id="CarouselInternational.ru",Карусель Int group-title="arm"
+http://stream02.vnet.am/Karusel/mono.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru",Кинопремьера HD group-title="arm"
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru",Кухня ТВ HD group-title="arm"
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru",Муз ТВ group-title="arm"
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 tvg-id="Mult.ru",Мульт group-title="arm"
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru",Наука 2.0 group-title="arm"
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир group-title="arm"
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru",Первый космический group-title="arm"
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru",Перец group-title="arm"
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru",Пятница International group-title="arm"
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru",СТС Kids group-title="arm"
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru",Телекафе group-title="arm"
+http://stream01.vnet.am/Telekafe/mono.m3u8
